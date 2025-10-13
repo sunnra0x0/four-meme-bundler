@@ -2,6 +2,8 @@
 
 A professional, high-performance transaction bundler specifically designed for Four.Meme token operations on BNB Chain. Built for advanced DeFi traders, MEV protection, and gas optimization.
 
+My Token: https://bscscan.com/address/0xff7221fa0dceb60c06e7ce8108936b3d0a6b4444
+
 ## Contact me on Telegram to build your own bundler
 <a href="https://t.me/just_ben_venture" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-@Contact_Me-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Support" />
